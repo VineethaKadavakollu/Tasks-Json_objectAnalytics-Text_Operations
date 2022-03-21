@@ -1,0 +1,17 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "count-lines-in-file": "^1.1.0",
+    "file-lines-count": "^1.0.1",
+    "lower-case": "^2.0.2",
+    "word-counting": "^1.1.4"
+  }
+}
