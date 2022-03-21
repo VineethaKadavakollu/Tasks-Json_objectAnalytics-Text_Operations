@@ -1,5 +1,5 @@
 {
-  "name": "task1",
+  "name": "task2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "count-lines-in-file": "^1.1.0",
-    "file-lines-count": "^1.0.1",
-    "lower-case": "^2.0.2",
-    "word-counting": "^1.1.4"
+    "array-sort": "^1.0.0",
+    "csvtojson": "^2.0.10",
+    "lodash": "^4.17.21"
   }
 }
